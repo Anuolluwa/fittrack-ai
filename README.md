@@ -1,2 +1,2 @@
 # my-vibecoding-project
-Apps i vibe coded using the help of AI
+AI-powered BMI and calorie tracking mobile app built with React Native and Expo. Features real-time tracking, goal-based insights, and modern UI.
